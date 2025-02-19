@@ -47,4 +47,4 @@ flask run
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For questions or collaborations, reach out at [your-email@example.com].
+For questions or collaborations, reach out at [mfouzhan@gmail.com].
