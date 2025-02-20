@@ -39,7 +39,7 @@ def wish_user():
 # Get current weather with additional details
 def get_weather():
     city = "coimbatore"
-    api_key = "95996118ce2827af418cbb23152977d3"  # Replace with your OpenWeatherMap API key
+    api_key = ""  # Replace with your OpenWeatherMap API key
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
     
     try:
